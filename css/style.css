@@ -10,6 +10,8 @@
 
 header{
     height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
 }
 
 .logo{
@@ -18,10 +20,14 @@ header{
 }
 
 .title{
-    line-height: 50px;
+    line-height: 65%;
     display: inline-block;
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
     vertical-align: 50%;
+}
+
+main{
+    background-color: lightgray;
 }
 
